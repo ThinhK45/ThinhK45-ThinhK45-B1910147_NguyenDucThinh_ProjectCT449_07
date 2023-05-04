@@ -1,0 +1,127 @@
+[{
+  "_id": {
+    "$oid": "6268d0aa5f88494c7db36efa"
+  },
+  "title": "Áo Thun Body Fit - Chuyển Màu - Đỏ Rượu",
+  "desc": "Chất liệu: Áo thể thao body fit với chất liệu 45% polyester, 45% cotton & 10% spandex giúp bề mặt trở nên mịn màng và mát tay",
+  "img": [
+    "https://bizweb.dktcdn.net/thumb/1024x1024/100/480/007/products/img-0766-photoroom-1679836045164.png?v=1679836063087",
+    "https://bizweb.dktcdn.net/thumb/1024x1024/100/480/007/products/nguoi-that-1678911119969.png?v=1679836063213"
+  ],
+  "categories": "shirts",
+  "size": "L",
+  "color": "Đỏ Rượu",
+  "price": 350000,
+  "createdAt": {
+    "$date": "2022-04-27T05:12:10.723Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-03T07:12:04.063Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6445398d160052fea787bd16"
+  },
+  "title": "Áo Thun Body Fit",
+  "desc": "Chất liệu: Áo thể thao body fit với chất liệu 45% polyester, 45% cotton & 10% spandex giúp bề mặt trở nên mịn màng và mát tay",
+  "img": [
+    "https://bizweb.dktcdn.net/thumb/1024x1024/100/480/007/products/img-0737-photoroom-1679835953298.png?v=1679857794543",
+    "https://bizweb.dktcdn.net/thumb/1024x1024/100/480/007/products/img-0726-photoroom-1679835944076.png?v=1679857794593"
+  ],
+  "categories": "shirts",
+  "size": "M",
+  "color": "Xám Tro",
+  "price": 345000,
+  "createdAt": {
+    "$date": "2023-04-23T13:58:37.197Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-23T14:12:35.829Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64453b2b160052fea787bd3b"
+  },
+  "title": "Quần thể thao xám",
+  "desc": "Chất liệu: Quần thể thao nam với chất liệu 92% Polyester tạo cảm giác mát mẻ cho người mặc.",
+  "img": [
+    "https://bizweb.dktcdn.net/thumb/1024x1024/100/480/007/products/img-7823-photoroom-1681305168630.png?v=1681305189633",
+    "https://bizweb.dktcdn.net/thumb/1024x1024/100/480/007/products/img-7832-photoroom-1681305171381.png?v=1681305189703"
+  ],
+  "categories": "shorts",
+  "size": "M",
+  "color": "Xám",
+  "price": 240000,
+  "createdAt": {
+    "$date": "2023-04-23T14:05:31.385Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-23T14:11:21.481Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64453c79160052fea787bd4a"
+  },
+  "title": "Quần thể thao đen",
+  "desc": "Chất liệu: Quần thể thao nam với chất liệu 92% Polyester tạo cảm giác mát mẻ cho người mặc.",
+  "img": [
+    "https://bizweb.dktcdn.net/thumb/1024x1024/100/480/007/products/img-7847-photoroom-1679836298877.png?v=1679836319097",
+    "https://bizweb.dktcdn.net/thumb/1024x1024/100/480/007/products/img-7848-photoroom-1679836300593.png?v=1679836319157"
+  ],
+  "categories": "shorts",
+  "size": "M",
+  "color": "Đen",
+  "price": 240000,
+  "createdAt": {
+    "$date": "2023-04-23T14:11:05.748Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-23T14:11:05.748Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64453ec6160052fea787bd91"
+  },
+  "title": "Áo Polo Thể Thao - Vải Siêu Mát - Đen",
+  "desc": "Chất liệu: Áo polo phong cách thể thao dáng thoải mái (regular fit) với chất liệu vải silk Hàn Quốc mát mẻ khi mặc và thoải mái khi chạm vào. Vải được xử lý mềm tạo giác êm ái khi mặc và co dãn 4 chiều phù hợp với mọi vận động.",
+  "img": [
+    "https://bizweb.dktcdn.net/thumb/1024x1024/100/480/007/products/1-71-photoroom-1-1679835862490.png?v=1679835875087",
+    "https://bizweb.dktcdn.net/thumb/1024x1024/100/480/007/products/chi-tiet-1679314744535.jpg?v=1679835875133"
+  ],
+  "categories": "polo",
+  "size": "L",
+  "color": "Đen",
+  "price": 435000,
+  "createdAt": {
+    "$date": "2023-04-23T14:20:54.293Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-23T14:20:54.293Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64453f02160052fea787bd99"
+  },
+  "title": "Áo Polo Thể Thao - Vải Siêu Mát - Xám nhạt",
+  "desc": "Chất liệu: Áo polo phong cách thể thao dáng thoải mái (regular fit) với chất liệu vải silk Hàn Quốc mát mẻ khi mặc và thoải mái khi chạm vào. Vải được xử lý mềm tạo giác êm ái khi mặc và co dãn 4 chiều phù hợp với mọi vận động.",
+  "img": [
+    "https://bizweb.dktcdn.net/thumb/1024x1024/100/480/007/products/1-11-photoroom-1-1679835824531.png?v=1679835837117",
+    "https://bizweb.dktcdn.net/thumb/1024x1024/100/480/007/products/chi-tiet-1679315113590.jpg?v=1679835837150"
+  ],
+  "categories": "polo",
+  "size": "L",
+  "color": "Xám",
+  "price": 435000,
+  "createdAt": {
+    "$date": "2023-04-23T14:21:54.241Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-23T14:21:54.241Z"
+  },
+  "__v": 0
+}]

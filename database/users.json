@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "6452085a08b7b200f8b04ba6"
+  },
+  "username": "thinh",
+  "email": "thinh@gmail.com",
+  "password": "U2FsdGVkX19GomSBAQntzSWlL4MwzYcirtg5xPC6/mI=",
+  "isAdmin": true,
+  "createdAt": {
+    "$date": "2023-05-03T07:08:10.576Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-03T07:08:10.576Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6452171408b7b200f8b04c2f"
+  },
+  "username": "thinhk45",
+  "email": "thinhk45@gmail.com",
+  "password": "U2FsdGVkX1+TVdjBJWxgdtChEtn/7OYvdhg6RmpfKSE=",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2023-05-03T08:11:00.622Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-03T08:11:00.622Z"
+  },
+  "__v": 0
+}]

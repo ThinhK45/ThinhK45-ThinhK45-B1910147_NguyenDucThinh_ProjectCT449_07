@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "6452743fc162ff5c60b5deac"
+  },
+  "userId": "6452085a08b7b200f8b04ba6",
+  "productId": "6445398d160052fea787bd16",
+  "quantity": 1,
+  "title": "Áo Thun Body Fit",
+  "img": "https://bizweb.dktcdn.net/thumb/1024x1024/100/480/007/products/img-0737-photoroom-1679835953298.png?v=1679857794543",
+  "color": "Xám Tro",
+  "size": "M",
+  "price": 345000,
+  "createdAt": {
+    "$date": "2023-05-03T14:48:31.147Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-03T14:48:31.147Z"
+  },
+  "__v": 0
+}]
